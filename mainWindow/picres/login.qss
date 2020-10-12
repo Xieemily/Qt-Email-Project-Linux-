@@ -1,0 +1,31 @@
+QWidget:window {					/* Borders around the code editor and debug window */
+        border: 0px solid #ffffff;
+        background-color: #ffffff;
+}
+
+QPushButton {
+        background-color: #999999;
+        color: #ffffff;
+	border: 1px solid transparent;
+        border-radius: 5px;
+	padding: 4px 22px;
+}
+
+QPushButton:hover {
+	background-color: #808080;
+        color: #ffffff;
+}
+
+QPushButton:pressed {
+	color: #ffffff;
+	background-color: #000000
+}
+
+QLineEdit {
+        background: #808080;
+	border: 1px solid transparent;
+        border-radius: 5px;
+        selection color: #cccccc;
+	color: #546E7A;
+}
+

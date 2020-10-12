@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picres/click_black.jpg</file>
+        <file>picres/click_red.jpg</file>
+        <file>picres/checkmark.png</file>
+        <file>picres/cross.png</file>
+        <file>picres/text_bold.png</file>
+        <file>picres/user.png</file>
+        <file>picres/button_add.png</file>
+        <file>picres/file_new.png</file>
+        <file>picres/text_underline.png</file>
+        <file>picres/text_italic.png</file>
+        <file>picres/button_delete.png</file>
+        <file>picres/color_palette.png</file>
+        <file>picres/trash_recyclebin_empty_closed.png</file>
+        <file>picres/arrow_left_1.png</file>
+        <file>picres/edit.png</file>
+        <file>picres/message_open.png</file>
+        <file>picres/metroui.qss</file>
+        <file>picres/xxx.qss</file>
+        <file>picres/materialblue.qss</file>
+        <file>picres/light.qss</file>
+        <file>picres/light (copy).qss</file>
+        <file>picres/login.qss</file>
+        <file>picres/arrow_right_1.png</file>
+        <file>picres/button_undo.png</file>
+    </qresource>
+</RCC>
