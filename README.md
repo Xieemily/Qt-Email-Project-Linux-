@@ -1,2 +1,2 @@
 # Qt-Email-Project-Linux-
-A simple Qt mail system that can send mail within LAN
+A simple Qt mail system that can send mail within LAN, server end not included
