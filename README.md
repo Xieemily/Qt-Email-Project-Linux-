@@ -3,7 +3,7 @@ A simple Qt mail system that can send mail within LAN
 
 login, write, send, draft etc
 
-only client code available
+this project is for learning, only client code available
 
 
 
