@@ -9,11 +9,11 @@ only client code available
 
 **Login:**
 
-<img src="media/login.png" style="zoom:50%;" />
+<img src="media/login.PNG" style="zoom:50%;" />
 
 **Write:**
 
-![](media/write.png)
+![](media/write.PNG)
 
 **Receive Box:**
 
